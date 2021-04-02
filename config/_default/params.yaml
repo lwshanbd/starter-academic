@@ -23,7 +23,7 @@ twitter: ''
 email: lwshanbd@gmail.com
 phone: +86 178-6143-0339
 address:
-  street: No.72 Binhai Road
+  street: No.72 Binhai Road,
   city: Qingdao
   region: Shandong
   postcode: ''
@@ -60,10 +60,10 @@ address_format: en-us
 
 highlight: true
 highlight_languages:
-  - r
+  - python
 math: false
 diagram: false
-privacy_pack: true
+privacy_pack: false
 edit_page:
   repo_url: ''
   content_dir: ''
