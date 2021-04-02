@@ -1,3 +1,4 @@
+<!--
 <p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
@@ -32,4 +33,6 @@ To help us develop this template and software sustainably under the MIT license,
 - [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
 - [Course](https://unsplash.com/photos/JKUTrJ4vK00)
 
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-academic/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-academic/readme?pixel)](https://github.com/igrigorik/ga-beacon) -->
+
+## baodi的主页
