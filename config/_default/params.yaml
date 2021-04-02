@@ -23,7 +23,7 @@ twitter: ''
 email: lwshanbd@gmail.com
 phone: +86 178-6143-0339
 address:
-  street: No.72 Binhai Road, Shandong Unibersity
+  street: No.72 Binhai Road,
   city: Qingdao
   region: Shandong
   postcode: ''
@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: Phoenix Hall, Building II, Room B105
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
@@ -108,7 +108,7 @@ copyright_license:
 abstract_length: 135
 plugins_js: []
 avatar:
-  gravatar: true
+  gravatar: false
   shape: circle
 publications:
   date_format: January 2006
