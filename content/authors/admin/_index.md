@@ -70,8 +70,6 @@ email: "lwshanbd@gmail.com"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Baodi Shan is a senior student at Shandong University. He will receive his B.S. degree in Elite Class of Data Science from Shandong University in 2021. Mr. Shan joined HiPDAC Lab in Summer 2020 and has been working on implementing a lossy compression fault injection tool based on LLVM (called LCFI). His research interests include High Performance Computing, Big Data System and Parallel Computing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
