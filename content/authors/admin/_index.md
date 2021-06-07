@@ -60,6 +60,6 @@ email: "lwshanbd@gmail.com"
 highlight_name: false
 ---
 
-Baodi Shan is a senior student at Shandong University. He will receive his B.S. degree in Elite Class of Data Science from Shandong University in 2021. Mr. Shan joined HiPDAC Lab in Summer 2020 and has been working on implementing a lossy compression fault injection tool based on LLVM (called LCFI). His research interests include High Performance Computing, Big Data System and Parallel Computing.
+Baodi Shan is a senior student at Shandong University. He will receive his B.S. degree in Elite Class of Data Science from Shandong University in 2021. After that, he will go to Stony Brook University as a Ph.D. student. His future advisor is [Dr.Barbara Chapman](https://www.cs.stonybrook.edu/people/faculty/BarbaraChapman).His research interests include High Performance Computing, Big Data System and Parallel Computing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
