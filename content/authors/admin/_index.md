@@ -6,15 +6,15 @@ title: Baodi Shan
 superuser: true
 
 # Role/position/tagline
-role: Senior Undergradute Student
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Shandong University
-  url: https://www.sdu.edu.cn/
+- name: Stony Brook University
+  url: https://www.stonybrook.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include parallel computing, high-performance computing and distributed computing.
 
 # Interests to show in About widget
 interests:
@@ -25,9 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Ph.D in Computer Science
+    institution: Stony Brook University
+    year: From 2021
   - course: BEng in Computer Science
     institution: Shandong University
-    year: 2021
+    year: 2017 to 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,6 +63,6 @@ email: "lwshanbd@gmail.com"
 highlight_name: false
 ---
 
-Baodi Shan is a senior student at Shandong University. He will receive his B.S. degree in Elite Class of Data Science from Shandong University in 2021. After that, he is going to Stony Brook University(The State University of New York, Stony Brook) as a Ph.D. student. His future advisor is [Dr.Barbara Chapman](https://www.cs.stonybrook.edu/people/faculty/BarbaraChapman).His research interests include High Performance Computing, Big Data System and Parallel Computing.
+Baodi Shan is a Ph.D. student at Stony Brook University. His advisor is [Dr.Barbara Chapman](https://www.cs.stonybrook.edu/people/faculty/BarbaraChapman).His research interests include High Performance Computing, Big Data System and Parallel Computing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
