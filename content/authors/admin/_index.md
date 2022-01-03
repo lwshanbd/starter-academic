@@ -14,13 +14,13 @@ organizations:
   url: https://www.stonybrook.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include parallel computing, high-performance computing and distributed computing.
+bio: My research interests include high performance computing, parallel computing and compiler.
 
 # Interests to show in About widget
 interests:
 - High Performance Computing
-- Big Data System
 - Parallel Computing
+- Compiler
 
 # Education to show in About widget
 education:
@@ -63,6 +63,6 @@ email: "lwshanbd@gmail.com"
 highlight_name: false
 ---
 
-Baodi Shan is a Ph.D. student at Stony Brook University. His advisor is [Dr.Barbara Chapman](https://www.cs.stonybrook.edu/people/faculty/BarbaraChapman).His research interests include High Performance Computing, Big Data System and Parallel Computing.
+Baodi Shan is a Ph.D. student at Stony Brook University. His advisor is [Dr.Barbara Chapman](https://www.cs.stonybrook.edu/people/faculty/BarbaraChapman).His research interests include high performance computing, parallel computing and compiler.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
