@@ -21,18 +21,18 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: lwshanbd@gmail.com
-phone: +86 178-6143-0339
+phone: +1-631-559-0063
 address:
-  street: No.72 Binhai Road,
-  city: Qingdao
-  region: Shandong
-  postcode: ''
-  country: China
-  country_code: CN
+  street: IACS building
+  city: Stony Brook
+  region: Suffolk
+  postcode: 11733
+  country: the U.S.
+  country_code: US
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: Phoenix Hall, Building II, Room B105
+directions: IACS
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
@@ -73,12 +73,12 @@ edit_page:
     post: false
     book: false
 show_related:
-  book: true
+  book: false
   page: false
-  post: true
-  project: true
-  publication: true
-  event: true
+  post: false
+  project: false
+  publication: false
+  event: false
 reading_time: true
 section_pager: false
 docs_section_pager: true
